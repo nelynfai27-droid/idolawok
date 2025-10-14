@@ -4,7 +4,7 @@ body{
 }
 
 .text h1{
-color: rgb(226, 90, 113);
+color: rgb(138, 33, 91);
 margin: auto;
 justify-content: center;
 display: flex;
@@ -12,9 +12,25 @@ font-size: 40px;
 }
 
 .foto img{
-    width: 250px;
-    margin-top: 20px;
-    margin-left: 20px;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: px;
     border: 15px outset rgb(206, 74, 114);
+    margin-right:30px;
+    border-radius: 10px;
+    margin-left: -250px;
+}
+
+.foto{
     display: flex;
+    color: rgb(141, 39, 86);
+
+}
+
+.box{
+    background-color: aliceblue;
+    margin-left: 250px;
+    border-radius: 20px;
+    border: 10px double rgb(150, 47, 90);
 }
