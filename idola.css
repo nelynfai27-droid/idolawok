@@ -1,10 +1,10 @@
 body{
-    background: rgb(223, 145, 158)
+    background: #EAEFFE
     
 }
 
 .text h1{
-color: rgb(138, 33, 91);
+color: #2d274b;
 margin: auto;
 justify-content: center;
 display: flex;
@@ -14,23 +14,48 @@ font-size: 40px;
 .foto img{
     width: 200px;
     height: 200px;
-    margin-top: 50px;
-    margin-left: px;
-    border: 15px outset rgb(206, 74, 114);
+    margin-top: 25px;
+    margin-left:260px;
+    border: 15px outset #9787F3;
     margin-right:30px;
     border-radius: 10px;
-    margin-left: -250px;
-}
-
-.foto{
-    display: flex;
-    color: rgb(141, 39, 86);
-
 }
 
 .box{
-    background-color: aliceblue;
-    margin-left: 250px;
-    border-radius: 20px;
-    border: 10px double rgb(150, 47, 90);
+    background-color: #9787F3;
+    width:450px;
+    height: 355px;
+    margin-top: 25px;
+    margin-left: 155px;
+    border-radius: 10px;
+}
+
+.text1 h2{
+    color: #2d274b;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+li {
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #2d274b;
+    margin-top: 10px;
+}
+
+.box{
+    background-color: #9787F3;
+    width:450px;
+    height: 355px;
+    margin-top: 25px;
+    margin-left: 155px;
+    border-radius: 10px;
+}
+
+.bulatkecil{
+    width: 25px;
+    height: 25px;
+    background-color: #2d274b;
+    border-radius: 50%;
+    
 }
