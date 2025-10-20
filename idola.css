@@ -32,8 +32,8 @@ font-size: 40px;
 
 .text1 h2{
     color: #2d274b;
-    padding-top: 20px;
     padding-left: 150px;
+    margin-top: -5px;
 }
 
 li {
@@ -47,9 +47,9 @@ li {
     background-color: #9787F3;
     width:450px;
     height: 355px;
-    margin-top: 25px;
     margin-left: 155px;
     border-radius: 10px;
+
 }
 
 .bulatkecil{
@@ -57,5 +57,22 @@ li {
     height: 25px;
     background-color: #2d274b;
     border-radius: 50%;
-    
+    position:relative;
+    left:7px;
+    top:5px;
+}
+
+.bulatkecil1{
+    width: 25px;
+    height: 25px;
+    background-color: #2d274b;
+    border-radius: 50%;
+    position:relative;
+    left:410px;
+}
+
+.text3 h2{
+    color: #2d274b;
+    margin-top: -25px;
+    margin-left: 165px;
 }
