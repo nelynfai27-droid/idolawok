@@ -1,6 +1,6 @@
 body{
-    background: #EAEFFE
-    
+    /* background: linear-gradient(#fff,#9787F3,#2d274b); */
+    background: linear-gradient(10deg,#EAEFFE,#8079a1);
 }
 
 .text h1{
@@ -37,10 +37,10 @@ font-size: 40px;
 }
 
 li {
-    font-size: larger;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #2d274b;
     margin-top: 10px;
+    margin-top:10PX;
 }
 
 .box{
@@ -73,6 +73,17 @@ li {
 
 .text3 h2{
     color: #2d274b;
-    margin-top: -25px;
-    margin-left: 165px;
+    margin-left: 170px;
+    margin-top: -10px;
+}
+
+.text4 h2{
+    color: #2d274b;
+    margin-left: 110px;
+    margin-top: -10px;
+}
+
+h4{
+    color: #2d274b;
+    margin-left: -22px;
 }
